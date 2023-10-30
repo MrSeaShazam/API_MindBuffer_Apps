@@ -31,5 +31,6 @@
       "channelName": "Cricket Lab"
     }
   ],
-  "package": "com.aiart.blog"
+  "package": "com.aiart.blog",
+  "adCounter": 3
 }
