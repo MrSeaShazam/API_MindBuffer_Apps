@@ -1,0 +1,10 @@
+{
+  "PlayTubePro": 3,
+  "TptvLandscape": 3,
+  "ytvPlayer": 100,
+  "aiArt": 3,
+  "ZeeTube": {
+    "counter": 100,
+    "ServerUrl": "api_url"
+  }
+}
