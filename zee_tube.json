@@ -1,0 +1,7 @@
+{
+  "package": "com.aiart.blog",
+  "ZeeTube": {
+    "adCounter": 100,
+    "ServerUrl": "api_url"
+  }
+}
