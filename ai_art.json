@@ -1,5 +1,6 @@
 {
   "hotpotKey": "hotpot-temp9n88MmVw8uaDzmoBq",
   "baseUrlHotpot": "https://api.hotpot.ai/",
-  "package": "com.aiart.blog"
+  "package": "com.aiart.blog",
+  "adCount": 3
 }
