@@ -30,5 +30,6 @@
       "channelLink": "https://crickslab.com/match-central",
       "channelName": "Cricket Lab"
     }
-  ]
+  ],
+  "package": "com.aiart.blog"
 }
